@@ -159,5 +159,5 @@ It demonstrates:
 
 Sowmya Kanithii
 Aspiring Machine Learning Engineer | AI Systems Builder
-GitHub: (Sowmya)[https://github.com/sowmya13531]
+GitHub: [Sowmya]([https://github.com/sowmya13531])
 
